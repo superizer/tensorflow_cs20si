@@ -19,8 +19,8 @@ import vgg_model
 import utils
 
 # parameters to manage experiments
-STYLE = 'guernica'
-CONTENT = 'deadpool'
+STYLE = 'starry_night'
+CONTENT = 'tone'
 STYLE_IMAGE = 'styles/' + STYLE + '.jpg'
 CONTENT_IMAGE = 'content/' + CONTENT + '.jpg'
 IMAGE_HEIGHT = 250
